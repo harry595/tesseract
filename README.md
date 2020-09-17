@@ -1,4 +1,5 @@
-tesseract 여러 사진 속 특정 문자열 검색 프로그램
+#tesseract 
+여러 사진 속 특정 문자열 검색 프로그램
 
 tesseract 다운로드 ( 한글 버전으로 language 추가 )
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract'
